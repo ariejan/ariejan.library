@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP JUMPER_3
+D 3-Way Jumper
+K jumper
+$ENDCMP
+#
 #End Doc Library
