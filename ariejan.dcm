@@ -20,4 +20,9 @@ D Audio Power Amp.
 K Audio Power
 $ENDCMP
 #
+$CMP W65C02S
+D W65C02S 8-bit Microprocessor (DIP40)
+K 65C02 6502
+$ENDCMP
+#
 #End Doc Library
