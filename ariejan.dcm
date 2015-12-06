@@ -10,4 +10,14 @@ D LM2936MP-3.0/3.3/5.0 SOT-223
 K lm2936
 $ENDCMP
 #
+$CMP LM386
+D Audio Power Amp.
+K Audio Power
+$ENDCMP
+#
+$CMP LM386-BYPASS
+D Audio Power Amp.
+K Audio Power
+$ENDCMP
+#
 #End Doc Library
